@@ -1,5 +1,5 @@
 def new_hash
-{ }
+{}
 end
 
 def my_hash
@@ -7,11 +7,11 @@ def my_hash
 end
 
 def pioneer
-  hash = { }
+  hash = {}
   hash
 end
 
 
 def id_hash_generator(number)
-  hash = { }
+  hash = {}
 end
