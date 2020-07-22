@@ -1,14 +1,14 @@
 def new_hash
-{}
+hash = {}
 end
 
 def my_hash
-  hash.new 
+  {:favorite_color => "blue" }
 end
 
 def pioneer
-  hash = {}
-  hash
+  {hash = {}
+  hash}
 end
 
 
